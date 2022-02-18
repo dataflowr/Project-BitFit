@@ -1,3 +1,7 @@
+# DL-DIY potential project ideas
+
+Try the fine-tuning startegy on another dataset. You can also compare to [fine tuning](https://huggingface.co/docs/transformers/training)
+
 # BitFit [(Paper)](https://arxiv.org/abs/2106.10199)
 Simple Parameter-efficient Fine-tuning for Transformer-based Masked Language-models
 
